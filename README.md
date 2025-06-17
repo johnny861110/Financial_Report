@@ -1,4 +1,4 @@
-# Financial Agent Project
+# Financial Report Project
 
 ## Overview
 This project is designed to scrape financial data from the Taiwan Stock Exchange (TWSE) and generate reports. It includes a Python script for data scraping and a batch file for running the scraper.
